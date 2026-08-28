@@ -1,4 +1,4 @@
-# Check if the username is 'admin'.
+# simple login system:
 
 username = input("Enter an username: ")
 
