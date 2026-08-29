@@ -1,10 +1,13 @@
 
 # simple login system 
 
-username = input("Enter your username: ")
-password = input("Enter your password: ")
+username = input("Enter username: ")
 
-if username == "admin" and password == "1234":
-    print("Login Successfully")
-else:
-    print("Invalid username or password")
+if username == "admin":
+    password = input("Enter password: ")
+    if password == "1234":
+        print("Login Successfull")
+    else:
+        print("Incorrect password.")
+else: 
+    print("Invalid username")
