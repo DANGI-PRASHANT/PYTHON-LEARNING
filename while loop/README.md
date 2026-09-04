@@ -49,6 +49,7 @@ while number <= 5:
 
 
 ## Example 2: Condition-Based Loop
+```python
 
 number = 1
 while number <= 5:
@@ -60,11 +61,13 @@ The loop continues while:
 number <= 5
 
 is True.
+```
 
-⸻
 
-## Example 3: Ask Until the Correct Password
 
+##  Example 3: Ask Until the Correct Password
+
+``` python
 password = ""
 while password != "1234":
     password = input("Enter password: ")
@@ -74,12 +77,14 @@ We don’t know how many times the user will enter the wrong password.
 
 So, while is useful here.
 
+```
+
 ## Important: Update the Condition
 
 A while loop must have a way to become False.
 
 Example:
-
+``` python
 number = 1
 while number <= 5:
     print(number)
@@ -91,16 +96,16 @@ number += 1
 
 changes the value and eventually makes the condition False.
 
-⸻
+```
 
 ## ⚠️ Infinite Loop
 
 Be careful:
-
+``` python
 number = 1
 while number <= 5:
     print(number)
-
+```
 This can run forever because number never changes.
 
 ## Golden Rule
