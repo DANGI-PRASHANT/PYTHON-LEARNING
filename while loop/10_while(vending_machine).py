@@ -1,4 +1,4 @@
-# Vending Machine Simulator: 
+# COLD DRINK VENDING MACHINE SIMULATOR: 
 
 want = input("Do you want buy (yes/no): ")
 print("            CHOOSE COLD DRINKS          ")
