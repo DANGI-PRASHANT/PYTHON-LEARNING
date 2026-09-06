@@ -55,5 +55,23 @@ for i in range(len(fruits)):
 for index,fruit in enumerate (fruits,1):
     print(f" {index}. {fruit}")
 
+# 10. swiping methods in tuples:
 
+age_ram = 30 
+age_shyam = 40
+
+age_ram,age_shyam = age_shyam,age_ram
+
+print(age_ram)
+print(age_shyam)
+
+
+# another simple example:
+
+x = 1
+y =3 
+
+x,y = y,x
+print(x)
+print(y)
 
