@@ -5,7 +5,7 @@ number = (1)
 print(type(number)) # it is not tuples , python consider a interger.
 print(number) # it is wrong 
 
-# it is a correct :
+# it is a correct way :
 
 num = (1,)
 print(type(num))
