@@ -43,3 +43,4 @@ today_price , yesterday_price , *remaining= prices  # remaining take whole colle
 print(today_price)
 print(yesterday_price)
 print(remaining)
+
