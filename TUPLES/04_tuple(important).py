@@ -38,9 +38,30 @@ print(rating)
 
 prices = (12000,11000,10000,9000,8000,7000,60000)
 
-today_price , yesterday_price , *remaining= prices  # remaining take whole collection .
+today_price , yesterday_price , *remaining= prices  # remaining take multiple things or values. 
  
 print(today_price)
 print(yesterday_price)
 print(remaining)
+
+
+
+# D .  ignore in tuple with example:
+
+prices_01 = (300000,8000,2000,1500,3500)
+
+Gold, Silver,_,zinc,_= prices_01
+print(f"Price of Gold is {Gold}")
+print(f"price of silver is {Silver}")
+print(f"Price of zinc is {zinc}")
+
+
+    ## Aother example of multiple Neglect :
+
+names = ("Ram","hari","sita","gita","shyam")
+
+person_01,person_02,*_ = names
+print(person_01)
+print(person_02)
+
 
