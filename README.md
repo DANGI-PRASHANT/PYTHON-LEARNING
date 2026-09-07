@@ -28,7 +28,6 @@ This repository contains my Python practice programs and exercises as I learn Py
 - Write clean and readable code
 - Solve programming exercises
 - Build mini projects
-- Prepare for Django development
 - Strengthen problem-solving skills
 
 ## 🚀 Future Learning
