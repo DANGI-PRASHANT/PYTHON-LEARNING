@@ -15,25 +15,25 @@ print(num3 + num4)
 # 8. Removing items: 
 # ---> First of convert into list and do update than again convert into tuple:
 
-# numbers = (1,2,3,4,5)
+numbers = (1,2,3,4,5)
 
-# new_numbers = list(numbers)
+new_numbers = list(numbers)
 
-# new_numbers.pop()
+new_numbers.pop()
 
-# number_01 = tuple(new_numbers)
-# print(number_01)
+number_01 = tuple(new_numbers)
+print(number_01)
 
 
 #Another examples:
 
-# numbers_01 = (12,23,4,5,6,7)
+numbers_01 = (12,23,4,5,6,7)
 
-# new_number_01 = list(numbers_01)
+new_number_01 = list(numbers_01)
 
-# new_number_01.pop()
-# new_numbers_01 = tuple(new_number_01)
-# print(new_number_01)
+new_number_01.pop()
+new_numbers_01 = tuple(new_number_01)
+print(new_number_01)
 
 
 9. # Iterating through in tuples:
