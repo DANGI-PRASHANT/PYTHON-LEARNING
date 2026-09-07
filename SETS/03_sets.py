@@ -2,17 +2,17 @@
 
 # A. Remove:
 
-# fruits = {"apple","orange","mango"}
+fruits = {"apple","orange","mango"}
 
-# fruits.remove("apple")
-# print(fruits)
+fruits.remove("apple")
+print(fruits)
 
 # B. Discard: 
 
-# name = {"ram","shyam","krishna","hari"}
+name = {"ram","shyam","krishna","hari"}
 
-# name.discard("ram")
-# print(name) # no error when item is not in list.
+name.discard("ram")
+print(name) # no error when item is not in list.
 
 
 # C. pop():
