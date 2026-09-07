@@ -1,0 +1,74 @@
+# 🐍 Python Input and Output
+
+## 📚 About This Repository
+
+This repository contains my learning and practice of **Python Input and Output**.
+
+I learned how to take information from users and display results using Python.
+
+---
+
+# 🔶 1. What is Output in Python?
+
+Output means displaying information on the screen.
+
+In Python, we use the `print()` function to show output.
+
+### Example:
+
+```python
+print("Hello, World!")
+```
+
+---
+
+# 🔶 2. What is Input in Python?
+
+Input means taking information from the user.
+
+In Python, we use the `input()` function to get input from the user.
+
+### Example:
+
+```python
+name = input("Enter your name: ")
+
+print(name)
+```
+
+---
+
+# 🔶 3. Using Input and Output Together
+
+We can take information from the user and display it as output.
+
+### Example:
+
+```python
+name = input("Enter your name: ")
+
+print("Hello", name)
+```
+
+---
+
+## 📌 What I Learned
+
+* What is Output
+* Using the `print()` function
+* What is Input
+* Using the `input()` function
+* Taking user information
+* Displaying user information
+* Using Input and Output together
+* Simple practice programs
+
+---
+
+## 🎯 My Goal
+
+The purpose of this repository is to practice and understand **Python Input and Output** through different examples and programs.
+
+---
+
+⭐ This repository is part of my Python learning journey. 🚀
