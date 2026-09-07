@@ -22,3 +22,14 @@ fruits_01 = {"apple","orange","mango"}
 removed = fruits_01.pop()
 print(fruits_01)
 print(f"{removed} deleted")
+
+
+# D. clear:
+
+fruits_01.clear()
+print(fruits_01)
+
+# E. Delete (del):
+
+del fruits_01
+print(fruits_01)
