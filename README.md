@@ -74,16 +74,6 @@ In the future, I plan to learn:
 * Network automation
 * Cybersecurity automation
 
----
-
-
-## 📌 Note
-
-This repository is part of my Python learning journey. I will continue updating it as I learn new concepts and complete more practice exercises.
-I am continuously improving my programming skills and exploring how Python can be used in **Cybersecurity, Automation, and Penetration Testing**.
-
----
-
 
 # 💡 My Learning Philosophy
 
@@ -121,6 +111,13 @@ Learn 📚 → Practice 💻 → Make Mistakes ❌ → Fix Problems 🔧 → Imp
 ```
 
 > **"Don't compare your Chapter 1 with someone else's Chapter 20. Keep learning, keep practicing, and keep moving forward."** 🚀
+
+---
+
+## 📌 Note
+
+This repository is part of my Python learning journey. I will continue updating it as I learn new concepts and complete more practice exercises.
+I am continuously improving my programming skills and exploring how Python can be used in **Cybersecurity, Automation, and Penetration Testing**.
 
 ---
 
