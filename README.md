@@ -33,7 +33,6 @@ This repository contains my Python practice programs and exercises as I learn Py
 
 ## 🚀 Future Learning
 
-- SQL
 - Git & GitHub
 - Cybersecurity Automation
 - Ethical Hacking with Python
