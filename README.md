@@ -4,44 +4,6 @@ Welcome to my **Python Learning** repository! 👋
 
 This repository documents my journey of learning Python, practicing programming, solving problems, and building projects.
 
-## 📚 Learning Progress
-
-- ✅ Print Statements
-- ✅ Variables
-- 🔄 Data Types
-- ⏳ Input & Output
-- ⏳ Operators
-- ⏳ Conditional Statements
-- ⏳ Loops
-- ⏳ Functions
-- ⏳ File Handling
-- ⏳ Object-Oriented Programming (OOP)
-- ⏳ Modules & Packages
-- ⏳ Exception Handling
-- ⏳ Mini Projects
-
-
-
-## 🎯 Goals
-
-- Learn Python fundamentals
-- Write clean and readable code
-- Solve programming exercises
-- Build mini projects
-- Strengthen problem-solving skills
-
-## 🚀 Future Learning
-
-- Git & GitHub
-- Cybersecurity Automation
-- Ethical Hacking with Python
-
-## 📌 Note
-
-This repository is part of my Python learning journey. I will continue updating it as I learn new concepts and complete more practice exercises.
-I am continuously improving my programming skills and exploring how Python can be used in **Cybersecurity, Automation, and Penetration Testing**.
-
----
 
 ## 📚 Learning Progress
 
@@ -63,7 +25,6 @@ I am currently learning and practicing:
 This repository will continue to grow as I learn new concepts and complete more projects. 🚀
 
 ---
-
 # 🎯 My Goals
 
 My main goals are:
@@ -76,7 +37,6 @@ My main goals are:
 * 🔐 Learn authorized penetration testing with Python
 * 📁 Improve my Git & GitHub skills
 * 🤖 Learn Cybersecurity Automation
-
 ---
 
 # 🚀 Future Learning Goals
@@ -116,6 +76,13 @@ In the future, I plan to learn:
 
 ---
 
+
+## 📌 Note
+
+This repository is part of my Python learning journey. I will continue updating it as I learn new concepts and complete more practice exercises.
+I am continuously improving my programming skills and exploring how Python can be used in **Cybersecurity, Automation, and Penetration Testing**.
+
+---
 
 
 # 💡 My Learning Philosophy
