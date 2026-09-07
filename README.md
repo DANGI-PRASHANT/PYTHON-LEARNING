@@ -1,4 +1,4 @@
-v# 🐍 Python Learning Journey
+# 🐍 Python Learning Journey
 
 Welcome to my **Python Learning** repository! 👋
 
