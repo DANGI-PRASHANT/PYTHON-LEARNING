@@ -7,12 +7,15 @@ A Python-based restaurant ordering system.
 - Food Menu
 - Order System
 - Bill Calculation
+- Delivery option 
 
 ## Technologies
 - Python
 
 ## Demo
-See the demo video above.
+See the demo photo above.
+![Demo Screenshot](01_screenshot.png)
+![Demo Screenshot](02_screenshot.png)
 
 ## Source Code
 Source code is not publicly available.
